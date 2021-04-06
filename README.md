@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @asimonson1125
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Andrew Simonson
+- 👀 I’m interested in... stuff..  I'll fill this out more when I have a life direction
+- 🌱 I’m currently learning CSEC and Data Science at Rochester Institute of Technology
+- 💞️ I’m looking to collaborate on anything really idrk
+- 📫 How to reach me @ asimonson1125@gmail.com
 
 <!---
 asimonson1125/asimonson1125 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
