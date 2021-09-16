@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Andrew Simonson
-- 👀 I’m interested in... stuff..  I'll fill this out more when I have a life direction
-- 🌱 I’m currently learning CSEC and Data Science at Rochester Institute of Technology
-- 💞️ I’m looking to collaborate on anything really idrk
+- 👀 I’m interested in data scraping and statistics
+- 🌱 I’m currently in the Computing Exploration program at Rochester Institute of Technology
+- 💞️ I’m looking to collaborate on any cool projects related to data science
 - 📫 How to reach me @ asimonson1125@gmail.com
 
 <!---
