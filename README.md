@@ -1,7 +1,14 @@
-- 👋 Hi, I’m Andrew Simonson
-- 👀 I’m interested in predictive analytics and web scraping
-- 🌱 I’m currently in the Computer Science BS program at Rochester Institute of Technology with the intent of graduating with a Data Science MS
-- 📫 How to reach me @ asimonson1125@gmail.com
+# the BEES
+## they are EVERYWHERE
+
+Send help:
+1. mail me bee tracking technology
+2. help me put the bee trackers on them
+3. get bee data
+4. become my friend
+5. ???
+6. Sell bee map and bee removal products
+7. PROFIT
 
 <!---
 asimonson1125/asimonson1125 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
