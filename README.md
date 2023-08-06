@@ -7,10 +7,10 @@ It's hopeless, the world is becoming a better place and there's nothing you can 
 Become part of the problem - Start a cool project today.<br />
 [One day I'll build a respectable website](https://asimonson.com)
 
-<span style="font-size:x-small"><br /><br />
+<sub><sup><br /><br />
 Crazy?  I was crazy once.<br />
 They gave me a brain.  A brain full of indefinite state machines.<br />
-Indefinite state machines make me crazy.<br /><br /></span>
+Indefinite state machines make me crazy.<br /><br /></sup></sub>
 
 <!-- <img src="./ape.jpeg" alt="This ape knows it can always get better" style="width:3em;"/> -->
 
