@@ -1,14 +1,12 @@
-# the BEES
-## they are EVERYWHERE
+<!---
+I am inside your walls
+--->
 
-Send help:
-1. mail me bee tracking technology
-2. help me put the bee trackers on them
-3. get bee data
-4. become my friend
-5. ???
-6. Sell bee map and bee removal products
-7. PROFIT
+# They call me heat miser
+## because my autobiography skills melt in my clutch
+
+I'm too much
+
 
 <!---
 asimonson1125/asimonson1125 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
