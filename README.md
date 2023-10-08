@@ -2,15 +2,19 @@
 I am inside your walls
 --->
 
-# <img src="./catJam.gif" style="width:1em;" alt="cat jamming" /> <u>I will make things obsolete</u> <img src="./catJam.gif" style="width:1em;" alt="cat jamming" />
+<img src="./catJam.gif" style="height:2em;" alt="cat jamming" /> <img src="./header.png" style="height:2em;" alt="I will make things obsolete" /> <img src="./catJam.gif" style="height:2em;" alt="cat jamming" />
+
 It's hopeless, the world is becoming a better place and there's nothing you can do to stop it.<br />
 Become part of the problem - Start a cool project today.<br />
 [One day I'll build a respectable website](https://asimonson.com)
 
-<sub><sup><br /><br />
+<sub><sup>
+<br /><br />
 Crazy?  I was crazy once.<br />
 They gave me a brain.  A brain full of indefinite state machines.<br />
-Indefinite state machines make me crazy.<br /><br /></sup></sub>
+Indefinite state machines make me crazy.<br /><br />
+Github tried to make my readme obsolete by changing their markdown rendering but it's nothing I can't adapt to.  I will css animate the entire bee movie if I have to.
+</sup></sub>
 
 <!-- <img src="./ape.jpeg" alt="This ape knows it can always get better" style="width:3em;"/> -->
 
