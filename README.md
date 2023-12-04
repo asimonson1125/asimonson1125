@@ -13,7 +13,7 @@ Become part of the problem - Start a cool project today.<br />
 Crazy?  I was crazy once.<br />
 They gave me a brain.  A brain full of indefinite state machines.<br />
 Indefinite state machines make me crazy.<br /><br />
-Github tried to make my readme obsolete by changing their markdown rendering but it's nothing I can't adapt to.  I will css animate the entire bee movie if I have to.
+Github tried to make my readme obsolete by changing their markdown rendering but it's nothing I can't adapt to.  I will css animate the entire bee movie if I must.
 </sup></sub>
 
 <!-- <img src="./ape.jpeg" alt="This ape knows it can always get better" style="width:3em;"/> -->
