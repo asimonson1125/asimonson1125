@@ -1,13 +1,15 @@
 <!---
 I am inside your walls
 --->
+<div align="center"><img src="./tflame.gif" /> <strong>Home of the Bloatware Complainer</strong> <img src="./tflame.gif" /></div>
+<div align="center"><sup>Install Wizards Welcome, Pondering Orbs Available</sup></div>
 
-<img src="./catJam.gif" style="height:2em;" alt="cat jamming" /> <img src="./header.png" style="height:2em;" alt="I will make things obsolete" /> <img src="./catJam.gif" style="height:2em;" alt="cat jamming" />
-
+<div align="center">
 It's hopeless, the world is becoming a better place and there's nothing you can do to stop it.<br />
 Become part of the problem - Start a cool project today.<br />
-[I beat the keyboard with a rock until it produced this gaudy af website](https://asimonson.com)
+</div>
 
+<img src="meCastingSpells.jpg" align="right" style="height:10em;" />
 <sub><sup>
 <br /><br />
 Crazy?  I was crazy once.<br />
