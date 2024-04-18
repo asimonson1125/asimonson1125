@@ -1,12 +1,12 @@
 <!---
 I am inside your walls
 --->
-<div align="center"><img src="./tflame.gif" /> <strong>Home of the Bloatware Complainer</strong> <img src="./tflame.gif" /></div>
+<div align="center"><img src="./tflame.gif" /> <strong>Home of the Arcane Tome of Ambiguity</strong> <img src="./tflame.gif" /></div>
 <div align="center"><sup>Install Wizards Welcome, Pondering Orbs Available</sup></div>
 
 <div align="center">
-It's hopeless, the world is becoming a better place and there's nothing you can do to stop it.<br />
-Become part of the problem - Start a cool project today.<br />
+The world is somehow becoming a better place and there's nothing you can do to stop it.<br />
+Become part of the problem - Start an indeterminate project today.<br />
 </div>
 
 <img src="meCastingSpells.jpg" align="right" style="height:10em;" />
