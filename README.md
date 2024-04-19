@@ -6,7 +6,7 @@ I am inside your walls
 
 <div align="center">
 The world is somehow becoming a better place and there's nothing you can do to stop it.<br />
-Become part of the problem - Start an indeterminate project today.<br />
+Become part of the problem - Start a probablistic precision project today.<br />
 </div>
 
 <img src="meCastingSpells.jpg" align="right" style="height:10em;" />
