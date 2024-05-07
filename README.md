@@ -1,15 +1,10 @@
 <!---
 I am inside your walls
 --->
-<div align="center"><img src="./tflame.gif" /> <strong>Home of the Arcane Tome of Ambiguity</strong> <img src="./tflame.gif" /></div>
-<div align="center"><sup>Install Wizards Welcome, Pondering Orbs Available</sup></div>
+<div align="center"><img src="./tflame.gif" /> <strong>I Write Code Here</strong></strong> <img src="./tflame.gif" /></div>
+<div align="center"><sup>99% of Software Engineers Stop Looking For Example Code Just Before Finding This Page</sup></div>
 
-<div align="center">
-The world is somehow becoming a better place and there's nothing you can do to stop it.<br />
-Become part of the problem - Start a probablistic precision project today.<br />
-</div>
-
-<img src="meCastingSpells.jpg" align="right" style="height:10em;" />
+<img src="meCastingSpells.jpg" align="right" alt="literally me" style="height:10em;" />
 <sub><sup>
 <br /><br />
 Crazy?  I was crazy once.<br />
@@ -18,6 +13,10 @@ Indefinite state machines make me crazy.<br /><br />
 </sup></sub>
 
 <!-- <img src="./ape.jpeg" alt="This ape knows it can always get better" style="width:3em;"/> -->
+<div align="center">
+  <img src="https://profile-counter.glitch.me/asimonson1125/count.svg?"  />
+</div>
+
 
 <!---
 asimonson1125/asimonson1125 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
