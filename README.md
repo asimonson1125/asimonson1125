@@ -7,16 +7,10 @@ I am inside your walls
 <img src="meCastingSpells.jpg" align="right" alt="literally me" style="height:10em;" />
 <sub><sup>
 <br /><br />
-Crazy?  I was crazy once.<br />
-They gave me a brain.  A brain full of indefinite state machines.<br />
-Indefinite state machines make me crazy.<br /><br />
+Electron and its consequences have been a disaster for the hardware race
 </sup></sub>
 
 <!-- <img src="./ape.jpeg" alt="This ape knows it can always get better" style="width:3em;"/> -->
-<div align="center">
-  <img src="https://profile-counter.glitch.me/asimonson1125/count.svg?"  />
-</div>
-
 
 <!---
 asimonson1125/asimonson1125 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
