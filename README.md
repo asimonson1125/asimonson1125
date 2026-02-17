@@ -4,6 +4,8 @@ I am inside your walls
 <div align="center"><img src="./tflame.gif" /> <strong>I Write Code Here</strong></strong> <img src="./tflame.gif" /></div>
 <div align="center"><sup>Electron and its consequences have been a disaster for the hardware race</sup></div>
 
+<img width='88px' height='31px' src='portfolioButton.png' alt='web button' />
+
 <!-- <img src="./ape.jpeg" alt="This ape knows it can always get better" style="width:3em;"/> -->
 
 <!---
