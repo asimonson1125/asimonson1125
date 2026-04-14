@@ -1,5 +1,6 @@
-syntax on 
-colors slate
+syntax on
+hi Normal guibg=NONE ctermbg=NONE
+" colors slate
 
 filetype on
 
@@ -17,4 +18,3 @@ set cursorline
 
 " Highlight cursor line underneath the cursor vertically.
 " set cursorcolumn
-
